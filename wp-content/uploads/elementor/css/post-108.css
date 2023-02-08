@@ -1,0 +1,17 @@
+.elementor-108 .elementor-element.elementor-element-796f3492 {--flex-direction: row;--container-widget-width: calc(( 1 - var(--container-widget-flex-grow) ) * 100%);--container-widget-height: 100%;--container-widget-flex-grow: 1;--container-widget-align-self: stretch;--align-items: center;--gap: 0px;--background-transition: .3s;}
+.elementor-108 .elementor-element.elementor-element-3ffbdb30 {--flex-direction: column;--container-widget-width: 100%;--container-widget-height: initial;--container-widget-flex-grow: 0;--container-widget-align-self: initial;--background-transition: .3s;}
+.elementor-108 .elementor-element.elementor-element-3d6027ca {text-align: right;}
+.elementor-108 .elementor-element.elementor-element-3d6027ca img {width: 320px;border-radius: 10px 10px 10px 10px;}
+.elementor-108 .elementor-element.elementor-element-3d6027ca > .elementor-widget-container {padding: 0px 40px 0px 0px;}
+.elementor-108 .elementor-element.elementor-element-46a6ec3f {--flex-direction: column;--container-widget-width: 100%;--container-widget-height: initial;--container-widget-flex-grow: 0;--container-widget-align-self: initial;--gap: 10px;--background-transition: .3s;--padding-top: 40px;--padding-right: 40px;--padding-bottom: 40px;--padding-left: 40px;}
+.elementor-108 .elementor-element.elementor-element-2184d5b9 {text-align: left;}
+.elementor-108 .elementor-element.elementor-element-2184d5b9 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 20px;font-weight: 600;font-style: normal;line-height: 1.2em;}
+.elementor-108 .elementor-element.elementor-element-43ef739f {text-align: left;font-family: "Poppins",Sans-serif;font-weight: 400;font-style: normal;}
+.elementor-108 .elementor-element.elementor-element-4631db6 .elementor-button {font-family: "Poppins",Sans-serif;font-size: 14px;font-weight: 500;background-color: #6051bc;border-radius: 6px 6px 6px 6px;padding: 18px 14px 18px 14px;}
+.elementor-108 .elementor-element.elementor-element-4631db6 .elementor-button:hover, .elementor-108 .elementor-element.elementor-element-4631db6 .elementor-button:focus {background-color: #4b3cad;}
+@media (max-width:767px) {.elementor-108 .elementor-element.elementor-element-3d6027ca {text-align: center;}
+	.elementor-108 .elementor-element.elementor-element-3d6027ca img {width: 240px;}
+	.elementor-108 .elementor-element.elementor-element-3d6027ca > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-108 .elementor-element.elementor-element-46a6ec3f {--align-items: center;--container-widget-width: calc(( 1 - var(--container-widget-flex-grow) ) * 100%);}}
+@media (min-width:768px) {.elementor-108 .elementor-element.elementor-element-3ffbdb30 {--width: 50%;}
+	.elementor-108 .elementor-element.elementor-element-46a6ec3f {--width: 50%;}}
