@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for DevpUsama	</title>
-	<atom:link href="http://devpusama.tech/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://devpusama.tech</link>
+	<atom:link href="https://devpusama.tech/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://devpusama.tech</link>
 	<description></description>
 	<lastBuildDate>Wed, 08 Feb 2023 17:49:25 +0000</lastBuildDate>
 	<sy:updatePeriod>
